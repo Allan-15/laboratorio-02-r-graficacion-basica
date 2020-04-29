@@ -1,7 +1,7 @@
 ---
 title: "GF-0604 Procesamiento de datos geográficos<br>Laboratorio 02: R - Graficación básica"
-author: "Allan Chinchilla Arias"
-date: "2020-04-30"
+author: "Allan Chinchilla Arias - B92220"
+date: "2020-04-29"
 output:
   html_document:
     theme: readable    
